@@ -2,6 +2,8 @@
     "files.associations": {
         "*.gohtml": "html",
         "iostream": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "sstream": "cpp",
+        "istream": "cpp"
     }
 }
